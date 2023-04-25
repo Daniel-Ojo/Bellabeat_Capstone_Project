@@ -108,3 +108,18 @@ We further analysed the data to determine on average the day users stay in bed t
 We concluded the analysis by constructing a scattered plot to view the relationship between calories and distance taken
 
 ![](tableau6.PNG)
+
+# STEP 6: ACT
+In this final step, we will be delivering our insights and providing recommendations based on our analysis.
+
+**Business Question 1: What are the trends identified?
+- Majority of FitBit user use the app to track sedentary activities and not health related habits
+- On average, users track their activities more during weekdays
+- Users stays in bed more during weekends and theirs a spike in workout during the hours of 1700-2000HRS
+
+**Business Question 2: How could this trends apply to bellabeat customers?
+- Both company are in the same industry and into the same production, producind app that tracks health and daily habits for women. Therefore, these common trends can very well apply to bellabeat customer
+
+**Business Question 3: How could these trends help influence Bellabeat marketing strategy?
+- Using the calories analysis, bellabeat can educate and advice their customers on the importance of exercise and its effect on the body. Thereby, encouraging them to track it using their app
+- Also they can incluse notification in the app to prompt user do their exercise regularly.
