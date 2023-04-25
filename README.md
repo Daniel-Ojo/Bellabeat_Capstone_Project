@@ -64,7 +64,7 @@ The data was imported into MS Excel using the import option
 
 ![](overview.PNG)
 
-##DATA CLEANING:
+## DATA CLEANING:
 1.	We did an overview of the data
 2.	Check for null and missing data
 The data appears to be free of null values
@@ -75,4 +75,17 @@ The data appears to be free of null values
 ## DATA TRANSFORMATION
 4.	The columns were formatted correctly
 5.	The data was loaded into tableau for further analysis
+
+![](tableau1.PNG)
+
+# STEP 4: ANALYSIS
+Various analysis were carried out which would be fully explained in the next step
+
+# STEP 5: SHARE
+In this step, we are creating visualizations and communicating our findings based on our analysis.
+
+## 1. Weekday users uses the app most
+Here, we use the count function to count number of times the app was used and extracted weekday from activity date
+
+![](tableau2.PNG)
 
