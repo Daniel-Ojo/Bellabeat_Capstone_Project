@@ -1,8 +1,7 @@
 # Bellabeat_Capstone_Project
-# Bellabeat Data Analysis Documention
+## Bellabeat Data Analysis Documention
 
 ## STEP 1: ASK
-
 Here, we are going to define the problem and objective of our case study and its desired outcome.
 
 ## INTRODUCTION:
@@ -12,13 +11,11 @@ This project is a Google data analytics capstone project aimed at making informe
 Analysis of Fitbit Fitness Tracker data to gain insight into how consumers use Fitbit app and discover trends for Bellabeat marketing strategy.
 
 ## BUSINESS OBJECTIVES:
-
 - What are some trends in smart device usage?
 - How could these trends apply to Bellabeat customers?
 - How could these trends help influence Bellabeat marketing strategy?
 
 ## WHAT TO EXPECT:
-
 - A clear summary of the business task
 - A description of all data sources used
 - Documentation of any cleaning or manipulation of data
@@ -27,26 +24,23 @@ Analysis of Fitbit Fitness Tracker data to gain insight into how consumers use F
 - High-level content recommendations based on the analysis
 
 ## STAKEHOLDERS:
-
 1. Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer 
 2. Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
 3. Bellabeat marketing analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy.
 
 ## PRODUCTS:
-
 1. Bellabeat app: The Bellabeat app provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits.
 2. Leaf: Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace, or clip. The Leaf tracker connects to the Bellabeat app to track activity, sleep, and stress.
 3. Time: This wellness watch combines the timeless look of a classic time piece with smart technology to track user activity, sleep, and stress.
 4. Spring: This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately hydrated throughout the day. 
 
 # STEP 2: PREPARE
-
 In prepare phase, we are going to identify the data been used and its limitation
 
 ## DATASOURCE:
 Data is publicly available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit). It is an open source data and contains 18 csv files. 30 FitBit user consented to the use of their personal data. Data collected includes physical activities, sleep monitoring, weight, calories, heart rate, daily activities and steps.
-## LIMITATIONS TO DATA:
 
+## LIMITATIONS TO DATA:
 - Data was collected in 2016 (7 years ago). Users activities might have change over the time. Therefore, the data is not relevant or timely
 - Sample size of 30 people is not a good representation of the whole fitness population.
 
@@ -64,16 +58,21 @@ Data is publicly available on [Kaggle](https://www.kaggle.com/datasets/arashnic/
 
 # STEP3: PROCESS
 Here, we will process the data by cleaning and ensuring that it is correct, relevant, complete and free of error
+
 ## IMPORTING THE DATA:
 The data was imported into MS Excel using the import option
-![]
 
-DATA CLEANING:
+![](overview.PNG)
+
+##DATA CLEANING:
 1.	We did an overview of the data
 2.	Check for null and missing data
 The data appears to be free of null values
 3.	Using excel functions, we checked basic information about the data
-Basic info
-DATA TRANSFORMATION
+
+![](basic_info.PNG)
+
+## DATA TRANSFORMATION
 4.	The columns were formatted correctly
+5.	The data was loaded into tableau for further analysis
 
