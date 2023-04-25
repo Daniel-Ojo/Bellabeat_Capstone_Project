@@ -89,3 +89,22 @@ Here, we use the count function to count number of times the app was used and ex
 
 ![](tableau2.PNG)
 
+## 2. Relationship between calory and total step
+Here, we analysed to check if there is a relationship between calory and total steps. Using, scattered plot, we constructed the sum of calories against total steps and used ID as marks
+
+![](tableau3.PNG)
+
+## 3. Workout hour
+Using line charts, we analysed the time of day users like to workout most. We extracted hour of day from the activity date and constructed the graph against average intensity
+
+![](tableau4.PNG)
+
+## 4. Hours in bed
+We further analysed the data to determine on average the day users stay in bed the most. We extracted day from activity date and constructed the graph adainst hours in bed
+
+![](tableau5.PNG)
+
+## 5. Relationship between calory and distance
+We concluded the analysis by constructing a scattered plot to view the relationship between calories and distance taken
+
+![](tableau6.PNG)
