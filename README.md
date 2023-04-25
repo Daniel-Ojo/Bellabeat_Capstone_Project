@@ -124,6 +124,16 @@ In this final step, we will be delivering our insights and providing recommendat
 - Using the calories analysis, bellabeat can educate and advice their customers on the importance of exercise and its effect on the body. Thereby, encouraging them to track it using their app
 - Also they can incluse notification in the app to prompt user do their exercise regularly.
 
+## SKILLS DEMONSTRATED
+
+- data cleaning
+- business intelligence
+- visualization
+- data analysis
+- documentation
+- data modelling
+- data transformation
+
 # DASHBOARD
 
 
